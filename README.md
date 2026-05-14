@@ -1,11 +1,10 @@
 # 👋 Hey, I'm Yerrabothu Mani Chandra Reddy
 
-🎯 Programmer | 💻 MERN Stack Developer | 🚀 Tech Club Leader  
+🎯 Programmer | 💻 MERN Stack Developer
 
 ---
 
-## 🔥 About Me
-- 🌐 President of **Enigma Club**, leading technical events, workshops & hackathons  
+## 🔥 About Me 
 - 🧑‍💻 Skilled in **C++, Python**, also proficient in **C & Java**  
 - 🖥️ Built **5+ MERN stack projects**, with exposure to **Angular basics**  
 - 📚 Currently deep-diving into **DSA** with Smart Interviews Smart Coder batch  
